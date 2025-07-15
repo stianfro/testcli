@@ -1,0 +1,7 @@
+# Binaries
+testcli
+
+# Test files
+*.key
+*.crt
+*.pfx
